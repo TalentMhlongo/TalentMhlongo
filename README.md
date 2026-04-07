@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TalentMhlongo
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on in data-driven projects and learning opportunities
 - 📫 How to reach me on email talentmhlongo15@gmail.com
 - 😄 Pronouns: He
